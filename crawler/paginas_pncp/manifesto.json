@@ -1,0 +1,17 @@
+{
+  "alvo": "https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao",
+  "modalidade": "Pregão - Eletrônico",
+  "codigo_modalidade": 6,
+  "data_inicial": "20260927",
+  "data_final": "20261027",
+  "paginas": [
+    {
+      "arquivo": "pagina_001.json",
+      "url": "https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260927&dataFinal=20261027&codigoModalidadeContratacao=6&pagina=1&tamanhoPagina=50",
+      "coletado_em": "2026-10-27T17:34:40+00:00",
+      "sha256": "5510ac651351f28b0d482acccae7892b92cbb18707a6c5781cd24999685d8960",
+      "registros_validos": 50
+    }
+  ],
+  "limite_solicitado": 50
+}
